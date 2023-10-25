@@ -155,7 +155,7 @@
         size = 10
     }
 }
-#Grão - Pará Region (80000)
+#Grï¿½o - Parï¿½ Region (80000)
 #Under rule of Brazil 1836
 #Manaus (40000/10000 POPS)
 2402 = {
@@ -567,7 +567,7 @@
     }
 }
 #Under rule of Brazil 1836
-#Belém (60000/15000 POPS)
+#Belï¿½m (60000/15000 POPS)
 2410 = {
     aristocrats = {
         culture = brazilian
@@ -647,7 +647,7 @@
         size = 4661
     }
 }
-#Santarém (20000/5000 POPS)
+#Santarï¿½m (20000/5000 POPS)
 2411 = {
     aristocrats = {
         culture = brazilian
@@ -710,7 +710,7 @@
     }
 }
 #Under loose authority of Brazil 1836
-#Óbidos (8000/2000 POPS)
+#ï¿½bidos (8000/2000 POPS)
 2412 = {
     clergymen = {
         culture = brazilian
@@ -772,7 +772,7 @@
         size = 1013
     }
 }
-#Marabá (12000/3000 POPS)
+#Marabï¿½ (12000/3000 POPS)
 2413 = {
     clergymen = {
         culture = brazilian
@@ -835,7 +835,7 @@
     }
 }
 
-#Macapá (8000/2000 POPS)
+#Macapï¿½ (8000/2000 POPS)
 2415 = {
 
     aristocrats = {
@@ -1217,7 +1217,7 @@
         size = 4575
     }
 }
-#Cuiabá (28000/7000 POPS)
+#Cuiabï¿½ (28000/7000 POPS)
 2418 = {
     clergymen = {
         culture = brazilian
@@ -1434,7 +1434,7 @@
         size = 2700
     }
 }
-#Goiás Region (64000)
+#Goiï¿½s Region (64000)
 #Under the rule of Brazil 1836
 #Vila Boa (44000/11000 POPS)
 2421 = {
@@ -1667,9 +1667,9 @@
         size = 3313
     }
 }
-#Maranhão Region (412000)
+#Maranhï¿½o Region (412000)
 #Under the rule of Brazil 1836
-#São Luís (160000/40000 POPS)
+#Sï¿½o Luï¿½s (160000/40000 POPS)
 2424 = {
     aristocrats = {
         culture = brazilian
@@ -2051,7 +2051,7 @@
         size = 20
     }
 }
-#Paraíba (92000/23000 POPS)
+#Paraï¿½ba (92000/23000 POPS)
 2428 = {
     aristocrats = {
         culture = brazilian
@@ -2311,7 +2311,7 @@
         size = 11632
     }
 }
-#Maceió (152000/38000 POPS)
+#Maceiï¿½ (152000/38000 POPS)
 2434 = {
     aristocrats = {
         culture = brazilian
@@ -2435,9 +2435,9 @@
         size = 17672
     }
 }
-#Bahía Region (896000)
+#Bahï¿½a Region (896000)
 #Under the rule of Brazil 1836
-#Salvador da Bahía (356000/89000 POPS)
+#Salvador da Bahï¿½a (356000/89000 POPS)
 2436 = {
     aristocrats = {
         culture = brazilian
@@ -2715,7 +2715,7 @@
         size = 7775
     }
 }
-#Vitória da Conquista (100000/25000 POPS)
+#Vitï¿½ria da Conquista (100000/25000 POPS)
 2440 = {
     aristocrats = {
         culture = brazilian
@@ -3231,7 +3231,7 @@
         size = 8238
     }
 }
-#Uberlândia (68000/17000 POPS)
+#Uberlï¿½ndia (68000/17000 POPS)
 2445 = {
     aristocrats = {
         culture = brazilian
@@ -3293,7 +3293,7 @@
         size = 5607
     }
 }
-#São João del Rey (132000/33000 POPS)
+#Sï¿½o Joï¿½o del Rey (132000/33000 POPS)
 2446 = {
     aristocrats = {
         culture = brazilian
@@ -3469,7 +3469,7 @@
         size = 10981
     }
 }
-#Victória (120000/30000 POPS) - Espírito Santo
+#Victï¿½ria (120000/30000 POPS) - Espï¿½rito Santo
 2449 = {
     aristocrats = {
         culture = brazilian
@@ -3531,7 +3531,7 @@
         size = 7932
     }
 }
-#São Paulo Region (580000)
+#Sï¿½o Paulo Region (580000)
 #Under the rule of Brazil 1836
 #Sorocaba (8000/2000 POPS)
 2306 = {
@@ -3571,7 +3571,7 @@
         size = 2633
     }
 }
-#São Paulo (252000/63000 POPS)
+#Sï¿½o Paulo (252000/63000 POPS)
 2450 = {
     aristocrats = {
         culture = brazilian
@@ -3955,9 +3955,9 @@
         size = 660
     }
 }
-#Paraná Region (512000)
+#Paranï¿½ Region (512000)
 #Under the rule of Brazil 1836
-#Curityba (172000/43000 POPS) #Paraná at game start
+#Curityba (172000/43000 POPS) #Paranï¿½ at game start
 2457 = {
     aristocrats = {
         culture = brazilian
@@ -4031,7 +4031,7 @@
         size = 6400
     }
 }
-#Guarapuava (40000/10000 POPS) #Paraná at game start
+#Guarapuava (40000/10000 POPS) #Paranï¿½ at game start
 2458 = {
     aristocrats = {
         culture = brazilian
@@ -4209,7 +4209,7 @@
         size = 2171
     }
 }
-#Castro (72000/18000 POPS) #Paraná at game start
+#Castro (72000/18000 POPS) #Paranï¿½ at game start
 2460 = {
     aristocrats = {
         culture = brazilian
@@ -4476,7 +4476,7 @@
 	
     farmers = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 639
     }
 	
@@ -4526,7 +4526,7 @@
 	
     farmers = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 629
     }
 
@@ -4632,7 +4632,7 @@
 	
     farmers = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 629
     }
 
@@ -4798,7 +4798,7 @@
 }
 #Acre Region (32000) #see Bolivia.txt for balance of region
 #Under loose authority of Bolivia 1836
-#Tarauacá (16000/4000 POPS) #now part of Brazil - Acre State
+#Tarauacï¿½ (16000/4000 POPS) #now part of Brazil - Acre State
 2549 = {
     aristocrats = {
         culture = amazonian

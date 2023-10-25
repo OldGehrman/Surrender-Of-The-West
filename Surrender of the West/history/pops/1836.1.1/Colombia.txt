@@ -1394,7 +1394,7 @@
 	}
 	farmers = {
 		culture = afro_caribbean
-		religion = protestant
+		religion = baptist
 		size = 50
 	}
 	clergymen = {
@@ -1404,7 +1404,7 @@
     }
 	clergymen = {
         culture = afro_caribbean
-        religion = protestant
+        religion = baptist
         size = 10
     }
 	clergymen = {

@@ -953,7 +953,7 @@ political_decisions = {
                 }
                 remove_country_modifier = negotiating_unequal_treaty
                 plurality = -5
-                religion = protestant
+                religion = anglican
                 set_country_flag = protestant_country
                 set_country_flag = gave_up_2nd_opium
                 clr_country_flag = change_to_protestant

@@ -3,7 +3,7 @@
 3116 = {
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = baptist
 		size = 125
 	}
 }
@@ -12,7 +12,7 @@
 3115 = {
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = baptist
 		size = 125
 	}
 }
@@ -21,7 +21,7 @@
 3114 = {
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = baptist
 		size = 250
 	}
 }
@@ -30,7 +30,7 @@
 3113 = {
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = baptist
 		size = 250
 	}
 }
@@ -39,7 +39,7 @@
 3117 = {
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = baptist
 		size = 250
 	}
 }
@@ -48,7 +48,7 @@
 3112 = {
 	farmers = {
 		culture = afro_american
-		religion = protestant
+		religion = baptist
 		size = 250
 	}
 }

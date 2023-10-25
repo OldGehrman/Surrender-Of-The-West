@@ -143,31 +143,31 @@
 3469 = {
     aristocrats = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 625
     }
 
     clergymen = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 175
     }
 
     artisans = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 1250
     }
 
     soldiers = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 1000
     }
 
     farmers = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 23950
     }
 

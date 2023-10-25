@@ -4,25 +4,25 @@
 354 = {
     clergymen = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 325
     }
 
     artisans = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 1500
     }
 
     soldiers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 2400
     }
 
     farmers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 30775
     }
 	
@@ -34,43 +34,43 @@
 
     aristocrats = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 650
     }
 
     bureaucrats = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 200
     }
 
     officers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 250
     }
 
     clergymen = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 75
     }
 
     farmers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 49000
     }
 
     artisans = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 6725
     }
 
     soldiers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 1000
     }
 
@@ -144,25 +144,25 @@
 355 = {
     clergymen = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 1100
     }
 
     artisans = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 3350
     }
 
     soldiers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 2150
     }
 
     farmers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 102375
     }
 	
@@ -174,25 +174,25 @@
 
     aristocrats = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 1250
     }
 
     clergymen = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     artisans = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 600
     }
 
     soldiers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
@@ -285,25 +285,25 @@
 3424 = {
     clergymen = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 1100
     }
 
     artisans = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 3350
     }
 
     soldiers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 2150
     }
 
     farmers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 20230
     }
 	
@@ -315,25 +315,25 @@
 
     aristocrats = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 1250
     }
 
     clergymen = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     artisans = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 600
     }
 
     soldiers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
@@ -423,19 +423,19 @@
 	
 	artisans = {
         culture = estonian
-        religion = protestant
+        religion = lutheran
         size = 150
     }
 
     soldiers = {
         culture = estonian
-        religion = protestant
+        religion = lutheran
         size = 250
     }
 
     farmers = {
         culture = estonian
-        religion = protestant
+        religion = lutheran
         size = 4525
     }
 
@@ -444,25 +444,25 @@
 356 = {
     clergymen = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 175
     }
 
     artisans = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 650
     }
 
     soldiers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 250
     }
 
     farmers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 16800
     }
 	
@@ -474,25 +474,25 @@
 
     aristocrats = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 700
     }
 
     clergymen = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     artisans = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 2200
     }
 
     soldiers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
@@ -566,25 +566,25 @@
 357 = {
     clergymen = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 125
     }
 
     artisans = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 150
     }
 
     soldiers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     farmers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 16275
     }
 	
@@ -596,31 +596,31 @@
 
     farmers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 1200
     }
 
     aristocrats = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 750
     }
 
     clergymen = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     artisans = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 750
     }
 
     soldiers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
@@ -651,31 +651,31 @@
 3603 = {
 	clergymen = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     artisans = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     soldiers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 150
     }
 
     farmers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 7275
     }
 	
 	aristocrats = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 400
     }
 	
@@ -696,25 +696,25 @@
 358 = {
     clergymen = {
         culture = ugrian
-        religion = protestant
+        religion = lutheran
         size = 225
     }
 
     artisans = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 300
     }
 
     soldiers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 275
     }
 
     farmers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 26450
     }
 	
@@ -726,31 +726,31 @@
 
     aristocrats = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 1200
     }
 
     clergymen = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     artisans = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 700
     }
 
     soldiers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     farmers = {
         culture = estonian
-        religion = protestant
+        religion = lutheran
         size = 1500
     }
 
@@ -781,61 +781,61 @@
 3423 = {
 	clergymen = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 175
     }
 
     artisans = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 150
     }
 
     soldiers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 200
     }
 
     farmers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 8075
     }
 	
 	farmers = {
         culture = ugrian
-        religion = protestant
+        religion = lutheran
         size = 2000
     }
 
     aristocrats = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 200
     }
 
     clergymen = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     artisans = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 700
     }
 
     soldiers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     farmers = {
         culture = estonian
-        religion = protestant
+        religion = lutheran
         size = 2500
     }
 }
@@ -843,25 +843,25 @@
 359 = {
     clergymen = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 175
     }
 
     artisans = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 150
     }
 
     soldiers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 200
     }
 
     farmers = {
         culture = latvian
-        religion = protestant
+        religion = lutheran
         size = 18475
     }
 	
@@ -873,25 +873,25 @@
 
     aristocrats = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 550
     }
 
     clergymen = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     artisans = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 400
     }
 
     soldiers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 

@@ -1,7 +1,7 @@
 capital = 566
 primary_culture = north_german
 culture = south_german
-religion = protestant
+religion = lutheran
 government = prussian_constitutionalism
 plurality = 25.0
 nationalvalue = nv_order

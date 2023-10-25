@@ -4,31 +4,31 @@
 251 = {
     bureaucrats = {
         culture = danish
-        religion = protestant
+        religion = lutheran
         size = 26
     }
 
     clergymen = {
         culture = danish
-        religion = protestant
+        religion = lutheran
         size = 13
     }
 
     artisans = {
         culture = danish
-        religion = protestant
+        religion = lutheran
         size = 21
     }
 	
 	farmers = {
         culture = danish
-        religion = protestant
+        religion = lutheran
         size = 167
     }
 
     farmers = {
         culture = inuit
-        religion = protestant
+        religion = lutheran
         size = 1220
     }
 }
@@ -37,7 +37,7 @@
 2636 = {
     farmers = {
         culture = inuit
-        religion = protestant
+        religion = lutheran
         size = 21
     }
 }
@@ -46,7 +46,7 @@
 468 = {
     farmers = {
         culture = inuit
-        religion = protestant
+        religion = lutheran
         size = 21
     }
 }

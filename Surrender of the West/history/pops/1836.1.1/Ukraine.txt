@@ -391,25 +391,25 @@
 
     clergymen = {
         culture = hungarian
-        religion = protestant
+        religion = reformed
         size = 400
     }
 
     artisans = {
         culture = hungarian
-        religion = protestant
+        religion = reformed
         size = 2250
     }
 
     soldiers = {
         culture = hungarian
-        religion = protestant
+        religion = reformed
         size = 400
     }
 
     farmers = {
         culture = hungarian
-        religion = protestant
+        religion = reformed
         size =  38950
     }
 
@@ -3824,37 +3824,37 @@
 
     aristocrats = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     officers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     clergymen = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     artisans = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 300
     }
 
     soldiers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
 
     farmers = {
         culture = volga_german
-        religion = protestant
+        religion = lutheran
         size = 3575
     }
 

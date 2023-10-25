@@ -46,7 +46,7 @@
 
     farmers = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 1320
     }
 

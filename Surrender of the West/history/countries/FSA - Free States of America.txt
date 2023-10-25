@@ -1,7 +1,7 @@
 capital = 2146
 primary_culture = yankee
 culture = afro_american
-religion = protestant
+religion = baptist
 government = democracy
 plurality = 5.0
 nationalvalue = nv_liberty

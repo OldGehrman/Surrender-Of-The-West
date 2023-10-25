@@ -518,7 +518,7 @@
 	
 	farmers = {
         culture = afro_american
-        religion = protestant
+        religion = baptist
         size = 500
     }
 

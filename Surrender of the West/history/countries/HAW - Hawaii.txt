@@ -1,7 +1,7 @@
 capital = 658
 primary_culture = polynesian
 culture = yankee
-religion = protestant
+religion = baptist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition

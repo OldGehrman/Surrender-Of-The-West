@@ -409,13 +409,13 @@
 
     farmers = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 1150
     }
 	
 	farmers = {
         culture = gypsy
-        religion = protestant
+        religion = reformed
         size = 50
     }
 
@@ -525,17 +525,17 @@
     }
     clergymen = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 100
     }
     artisans = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 235
     }
     farmers = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 3008
     }
 
@@ -610,12 +610,12 @@
     }
     farmers = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 991
     }
 	farmers = {
         culture = gypsy
-        religion = protestant
+        religion = reformed
         size = 45
     }
     ######Jews
@@ -673,12 +673,12 @@
     }
     artisans = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 94
     }
     farmers = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 846
     }
 }
@@ -706,7 +706,7 @@
     }
     farmers = {
         culture = frisian
-        religion = protestant
+        religion = reformed
         size = 31101
     }
     ######Jews
@@ -770,7 +770,7 @@
     }
     farmers = {
         culture = north_german
-        religion = protestant
+        religion = lutheran
         size = 1034
     }
 }

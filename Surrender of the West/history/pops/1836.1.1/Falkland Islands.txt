@@ -16,7 +16,7 @@
 
     farmers = {
         culture = welsh
-        religion = protestant
+        religion = anglican
         size = 50
     }
 
@@ -36,7 +36,7 @@
 
     farmers = {
         culture = yankee
-        religion = protestant
+        religion = anglican
         size = 5
     }
 }
